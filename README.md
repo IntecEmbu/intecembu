@@ -14,7 +14,7 @@
   - ### Professores e alunos 👨‍🎓
     ...
 
-  - ### Secretária 👨‍🏫
+  - ### Secretaria 👨‍🏫
     ...
 
 <br>
