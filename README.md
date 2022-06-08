@@ -1,12 +1,12 @@
-# Quem somos? 👨‍👨‍👧‍👦
+## Quem somos? 👨‍👨‍👧‍👦
 ...
 
 
-# O que desenvolvemos? 👩‍💻👨‍💻
+## O que desenvolvemos? 👩‍💻👨‍💻
 ...
 
-# Objetivo 🎯
+## Objetivo 🎯
 ...
 
-# Um pouco sobre a ETEC de Embu 👀
+## Um pouco sobre a ETEC de Embu 👀
 ...
