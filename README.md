@@ -3,16 +3,17 @@
 
 
 > ## O que desenvolvemos? 👩‍💻👨‍💻
-### Biblioteca
+
+### Biblioteca 📚
 ...
 
-### Laborátorio
+### Laborátorio 💻
 ...
 
-### Professores e alunos
+### Professores e alunos 👨‍🎓
 ...
 
-### Secretária
+### Secretária 👨‍🏫
 ...
 
 > ## Objetivo 🎯
