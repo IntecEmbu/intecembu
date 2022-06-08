@@ -1,6 +1,7 @@
 > ## Quem somos? 👨‍👨‍👧‍👦
 ...
 
+<br>
 
 > ## O que desenvolvemos? 👩‍💻👨‍💻
 
@@ -16,8 +17,12 @@
 ### Secretária 👨‍🏫
 ...
 
+<br>
+
 > ## Objetivo 🎯
 ...
 
-> ## Um pouco sobre a ETEC de Embu 👀
+<br>
+
+> ## Sobre a ETEC de Embu 👀
 ...
