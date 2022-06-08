@@ -1,12 +1,22 @@
-## Quem somos? 👨‍👨‍👧‍👦
+> ## Quem somos? 👨‍👨‍👧‍👦
 ...
 
 
-## O que desenvolvemos? 👩‍💻👨‍💻
+> ## O que desenvolvemos? 👩‍💻👨‍💻
+### Biblioteca
 ...
 
-## Objetivo 🎯
+### Laborátorio
 ...
 
-## Um pouco sobre a ETEC de Embu 👀
+### Professores e alunos
+...
+
+### Secretária
+...
+
+> ## Objetivo 🎯
+...
+
+> ## Um pouco sobre a ETEC de Embu 👀
 ...
