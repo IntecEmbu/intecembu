@@ -1,3 +1,7 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+<br>
+
 > ## Quem somos? 👨‍👨‍👧‍👦
   ### ...
 
@@ -15,7 +19,7 @@
 <br>
 
 > ## Objetivo 🎯
-  ### Estamos desenvolvendo sistemas para a ETEC de Embu a fim de facilitar o dia a dia dos profissionais que trabalham na instituição. 🏫
+>  ### Estamos desenvolvendo sistemas para a ETEC de Embu a fim de facilitar o dia a dia dos profissionais que trabalham na instituição. 🏫
   
   - ### Biblioteca vem para melhorar o controle de tráfego dos livros e os alunos saberem quais leituras estão disponiveis sem precisarem ir até a biblioteca. 📚 
   - ### Laborátorio vem para melhorar o gerenciamento do patrimônio, conseguindo reportar equipamentos danificados e ter uma manuntenção eficaz.💻
@@ -27,3 +31,15 @@
 
 > ## Sobre a ETEC de Embu 👀
   ### ...
+
+<br>
+<br>
+
+> ## Ferramentas 🛠
+ > ### Tecnologias utilizadas no projeto.
+
+  > ### Node.js
+   
+  > ### React 
+  
+  > ### MySQL 
