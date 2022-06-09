@@ -3,11 +3,11 @@
 <br>
 
 > ## Quem somos? 👨‍👨‍👧‍👦
-  ### ...
+  > ### Alunos da escola ETEC de Embu. Esse projeto faz parte de um TCC em que estamos desenvolvendo uma intranet para a escola. 🚀
 
 <br>
 
-> ## Sistemas que desenvolvemos 👩‍💻👨‍💻
+> ## Sistemas em desenvolvimento 👩‍💻👨‍💻
 
   - ### Biblioteca 📚
   - ### Laborátorio 💻
@@ -27,7 +27,7 @@
 <br>
 
 > ## Sobre a ETEC de Embu 👀
-  ### ...
+  > ### A ETEC de Embu é uma escola técnica onde possui cursos voltados para tecnologia e gestão. Caso se interesse pelo projeto faça a [inscrição no vestibulinho!](https://www.vestibulinhoetec.com.br/unidades-cursos/escola.asp?c=394) 🕹
 
 <br>
 
