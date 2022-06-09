@@ -3,19 +3,15 @@
 
 <br>
 
-> ## O que desenvolvemos? 👩‍💻👨‍💻
+> ## Sistemas que desenvolvemos 👩‍💻👨‍💻
 
   - ### Biblioteca 📚
-    ...
 
   - ### Laborátorio 💻
-    ...
 
   - ### Professores e alunos 👨‍🎓
-    ...
 
   - ### Secretaria 👨‍🏫
-    ...
 
 <br>
 
