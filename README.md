@@ -31,11 +31,5 @@
 
 <br>
 
-> ## Ferramentas 🛠
- > ### Tecnologias utilizadas no projeto.
+![Banner tecnologias](https://user-images.githubusercontent.com/107084747/173198273-5246dc84-424e-44b7-b096-0cb740dd66d7.png)
 
-  > #### Node.js
-   
-  > #### React 
-  
-  > #### MySQL 
