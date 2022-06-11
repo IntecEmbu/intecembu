@@ -2,6 +2,12 @@
 
 <br>
 
+<h2 align="center"> 
+	🚧 Em construção...  🚧
+</h2>
+
+<br>
+
 > ## Quem somos? 👨‍👨‍👧‍👦
   > ### Alunos da escola ETEC de Embu. Esse projeto faz parte de um TCC em que estamos desenvolvendo uma intranet para a escola. 🚀
 
