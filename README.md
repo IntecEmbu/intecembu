@@ -2,9 +2,10 @@
 
 
 <br>
-<h2 align="center"> 
+
+<div align="center"> 
 	🚧 Em construção...  🚧
-</h2>
+</div>
 
 <br>
 
