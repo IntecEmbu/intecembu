@@ -3,9 +3,8 @@
 
 <br>
 
-<div align="center"> 
-	🚧 Em construção...  🚧
-</div>
+# 🚧 Em construção...  🚧 
+
 
 <br>
 
