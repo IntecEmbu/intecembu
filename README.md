@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/107084747/173163764-8dededc1-0e30-4f54-8ead-f854b3a217da.png)
+![Cópia de Azul Linhas Limpo Minimalismo Banner para Twitch (4)](https://user-images.githubusercontent.com/107084747/173167317-11f81f03-86a4-429c-92a2-8cccd1c49d92.png)
 
 <br>
 
