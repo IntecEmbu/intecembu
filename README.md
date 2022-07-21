@@ -1,6 +1,8 @@
 ![Cópia de Azul Linhas Limpo Minimalismo Banner para Twitch (4)](https://user-images.githubusercontent.com/107084747/173167317-11f81f03-86a4-429c-92a2-8cccd1c49d92.png)
 
-<br>
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 > ## Quem somos? 👨‍👨‍👧‍👦
   > ### Alunos da escola ETEC de Embu. Esse projeto faz parte de um TCC em que estamos desenvolvendo uma intranet para a escola. 🚀
