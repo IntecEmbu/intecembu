@@ -10,7 +10,7 @@
 <br>
 
 > ## Sistemas em desenvolvimento 👩‍💻👨‍💻
-> #### Clique para conhecer o projeto mais de perto 🚀
+> #### Clique para conhecer o projeto mais de perto 🔥
 
   - ### [Biblioteca 📚](https://github.com/IntecEmbu/Biblioteca)
   - ### [Laboratório 💻](https://github.com/IntecEmbu/Laboratorio)
