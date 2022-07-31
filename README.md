@@ -10,11 +10,12 @@
 <br>
 
 > ## Sistemas em desenvolvimento 👩‍💻👨‍💻
+> #### Clique para conhecer o projeto mais de perto 🚀
 
-  - ### Biblioteca 📚
-  - ### Laboratório 💻
-  - ### Professores e alunos 👨‍🎓
-  - ### Secretaria 👨‍🏫
+  - ### [Biblioteca 📚](https://github.com/IntecEmbu/Biblioteca)
+  - ### [Laboratório 💻](https://github.com/IntecEmbu/Laboratorio)
+  - ### [Professores e alunos 👨‍🎓](https://github.com/IntecEmbu/Professores-Alunos)
+  - ### [Secretaria 👨‍🏫](https://github.com/IntecEmbu/Secretaria)
 
 <br>
 
